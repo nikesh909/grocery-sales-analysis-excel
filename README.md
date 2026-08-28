@@ -79,7 +79,7 @@ The final dashboard includes:
 - Revenue by Category
 - Revenue by Product
 
-![Final Dashboard](https://github.com/nikesh909/grocery-sales-analysis-excel/blob/b379bf0fc0918d040a543b36ff403ca3e0bf8ad0/05_dashboard.png)
+![Final Dashboard](05_dashboard.png)
 
 ---
 
