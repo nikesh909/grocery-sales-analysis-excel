@@ -133,23 +133,23 @@ was 4.76%.
 
 ### 1. Raw Data
 
-![Raw Data](screenshots/01_raw_data.png)
+![Raw Data](01_raw_data.png)
 
 ### 2. Power Query Transformation
 
-![Power Query](screenshots/02_power_query.png)
+![Power Query](02_power_query.png)
 
 ### 3. Cleaned Dataset
 
-![Cleaned Dataset](screenshots/03_cleaned_data.png)
+![Cleaned Dataset](03_cleaned_data.png)
 
 ### 4. Pivot Table Analysis
 
-![Pivot Analysis](screenshots/04_pivot_analysis.png)
+![Pivot Analysis](04_pivot_analysis.png)
 
 ### 5. Final Dashboard
 
-![Dashboard](screenshots/05_dashboard.png)
+![Dashboard](05_dashboard.png)
 
 ---
 
