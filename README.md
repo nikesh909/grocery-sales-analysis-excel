@@ -79,7 +79,7 @@ The final dashboard includes:
 - Revenue by Category
 - Revenue by Product
 
-![Final Dashboard](05_dashboard.png)
+![Final Dashboard](Screenshots/05_dashboard.png)
 
 ---
 
@@ -133,23 +133,23 @@ was 4.76%.
 
 ### 1. Raw Data
 
-![Raw Data](01_raw_data.png)
+![Raw Data](Screenshots/01_raw_data.png)
 
 ### 2. Power Query Transformation
 
-![Power Query](02_power_query.png)
+![Power Query](Screenshots/02_power_query.png)
 
 ### 3. Cleaned Dataset
 
-![Cleaned Dataset](03_cleaned_data.png)
+![Cleaned Dataset](Screenshots/03_cleaned_data.png)
 
 ### 4. Pivot Table Analysis
 
-![Pivot Analysis](04_pivot_analysis.png)
+![Pivot Analysis](Screenshots/04_pivot_analysis.png)
 
 ### 5. Final Dashboard
 
-![Dashboard](05_dashboard.png)
+![Dashboard](Screenshots/05_dashboard.png)
 
 ---
 
